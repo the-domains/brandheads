@@ -1,0 +1,28 @@
+name: brandheads
+favicon: null
+layout_spectrum: 0.9756830483675003
+typography_spectrum: 0.5717881140299141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.41393194254487753
+  lightness: 0.22814553463831544
+  saturation: 0.37269866839051247
+  rhythmicContrast: 0.770253196824342
+purpose: []
